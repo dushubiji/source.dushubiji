@@ -70,7 +70,7 @@ theme: clean-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/dushubiji/dushubiji.github.io.git
+  repo: https://dushubiji@github.com/dushubiji/dushubiji.github.io.git
 
 # add caption for iamges
 image_caption:
